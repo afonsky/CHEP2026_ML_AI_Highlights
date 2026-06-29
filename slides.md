@@ -40,7 +40,3 @@ author: Alexey Boldyrev
 ---
 src: ./slides/ml_at_chep2026.md
 ---
-
----
-src: ./slides/0_end.md
----

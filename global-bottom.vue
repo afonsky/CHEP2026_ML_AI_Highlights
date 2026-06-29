@@ -10,8 +10,8 @@
     <div class="flex">
       <div>
        <span v-html="$slidev.configs.author"></span> &nbsp;|&nbsp;
-       <span v-html="$slidev.configs.title"></span> @ MISP 2026 &nbsp;|&nbsp;
-       Lecture 2: <span v-html="$slidev.configs.subtitle"></span>
+       Lambda Seminar &nbsp;|&nbsp;
+       <span v-html="$slidev.configs.title"></span>
       </div>
       <div class="flex-grow">&nbsp;</div>
       <div
